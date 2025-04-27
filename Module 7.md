@@ -16,12 +16,11 @@ Else
  
 Program:
 
-//type your code here
-
+![image](https://github.com/user-attachments/assets/1361332a-173b-4a55-a82d-a2d36c41a660)
 
 Output:
+![image](https://github.com/user-attachments/assets/30299d89-e1a9-40f8-81f2-9eb55a861577)
 
-//paste your output here
 
 
 Result:
@@ -43,19 +42,12 @@ Algorithm:
 7.	Return 0
  
 Program:
-
-//type your code here
-
+![image](https://github.com/user-attachments/assets/b0e40790-1356-4d40-a0af-00f337a500e1)
 
 
 
 Output:
-
-
-//paste your output here
-
-
-
+![image](https://github.com/user-attachments/assets/a2e4201c-c9cb-4a92-95ec-173b6faf2da7)
 
 Result:
 Thus, the program is verified successfully
@@ -85,25 +77,10 @@ Use scanf to input the file name into the name array.
 5.	Return 0 to indicate successful program execution.
  
 Program:
-
-//type your code here
-
-
-
+![image](https://github.com/user-attachments/assets/50bf705a-37c3-4620-a769-983d253e64f3)
 
 Output:
-
-
-//paste your output here
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/c7faa89e-9994-4ba7-ac40-7babee5c4fb2)
 
 
 Result:
@@ -132,19 +109,10 @@ Use scanf to input the file name into the name array and the number of strings i
 5.	Return 0 to indicate successful program execution.
  
 Program:
-
-//type your code here
-
-
-
+![image](https://github.com/user-attachments/assets/0b4e3927-d2b9-4018-8c1c-ac39648b4570)
 
 Output:
-
-
-//paste your output here
-
-
-
+![image](https://github.com/user-attachments/assets/03204446-2d61-423f-8e01-5dbf882fb96a)
 
 
 
@@ -186,19 +154,12 @@ Algorithm:
 13.End the program by returning 0.
 
 Program:
-
-//type your code here
-
-
+![image](https://github.com/user-attachments/assets/9ec291d7-8421-4eba-b931-53838c05a640)
 
 
 Output:
 
-
-//paste your output here
-
-
-
+![image](https://github.com/user-attachments/assets/bf6ecf0d-779e-42ed-af24-0857bde22d03)
 
 
 
