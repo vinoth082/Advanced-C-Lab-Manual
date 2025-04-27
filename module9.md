@@ -13,13 +13,15 @@ Algorithm:
  
 Program:
 
-//type your code here
+
+
+
+![Screenshot 2025-04-27 185232](https://github.com/user-attachments/assets/8bd772e3-bbf9-4ac9-940f-ecdc54d3c561)
+
+![image](https://github.com/user-attachments/assets/48b1ea87-3d80-4ef9-95c4-edce6396115f)
 
 Output:
-
-//paste your output here
-
-
+![image](https://github.com/user-attachments/assets/9aa43cb6-4552-44c4-8640-bd51df178f53)
 
 Result:
 Thus, the program to display stack elements using an array is verified successfully.
@@ -36,13 +38,10 @@ Algorithm:
  
 Program:
 
-//type your code here
+![image](https://github.com/user-attachments/assets/51fc5657-7448-4db6-b343-a9841d174363)
 
 Output:
-
-//paste your output here
-
-
+![image](https://github.com/user-attachments/assets/1f01ec11-f897-4dab-873b-dea07c51bf6c)
 
 
 Result:
@@ -61,13 +60,10 @@ Algorithm:
 4.	Call the display function and perform other queue operations as needed.
  
 Program:
-
-//type your code here
+![image](https://github.com/user-attachments/assets/a826a783-2607-4519-aa10-ad40606797a1)
 
 Output:
-
-//paste your output here
-
+![image](https://github.com/user-attachments/assets/13392a79-01b9-43f2-9f3e-a458413c6cf0)
 
 Result:
 Thus, the program to display queue elements using array is verified successfully.
@@ -86,11 +82,11 @@ Algorithm:
 
 Program:
 
-//type your code here
+![image](https://github.com/user-attachments/assets/8ecfd90c-7aab-4fed-8c89-150bb338446a)
 
 Output:
+![image](https://github.com/user-attachments/assets/5ca79609-4366-4875-abbf-640f21906938)
 
-//paste your output here
 
 Result:
 Thus, the program to insert elements in queue using array is verified successfully.
@@ -120,12 +116,11 @@ o	After deletion, check if the front pointer has passed the rear pointer (front 
 
 
 Program:
+![image](https://github.com/user-attachments/assets/fbbb08b3-1d8b-4d41-b89b-0ff982a961ae)
 
-//type your code here
 
 Output:
-
-//paste your output here
+![image](https://github.com/user-attachments/assets/0a55a1f8-3a63-4829-9a20-266a8b5dd1f1)
 
 
 Result:
