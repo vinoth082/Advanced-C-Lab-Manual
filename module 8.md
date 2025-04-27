@@ -15,22 +15,12 @@ Algorithm:
 4.	Exit the program.
  
 Program:
-
-//type your code here
-
-
+![image](https://github.com/user-attachments/assets/3990e75f-aa9e-4847-9861-f95540a39e45)
+![image](https://github.com/user-attachments/assets/de7f376d-73d7-4f47-8a6e-a9d472e554bb)
 
 
 Output:
-
-
-//paste your output here
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/63d4ffaf-31fc-4c23-957d-780a60fce786)
 Result:
 Thus, the program is verified successfully
  
@@ -46,20 +36,11 @@ Algorithm:
 6.	End
  
 Program:
-
-//type your code here
-
-
-
+![image](https://github.com/user-attachments/assets/22dffac6-ac0d-4348-a8ba-d20b18e4a850)
 
 Output:
 
-
-//paste your output here
-
-
-
-
+![image](https://github.com/user-attachments/assets/b6c26ee2-b30f-45d7-b52b-4450965b3815)
 
 
 Result:
@@ -83,21 +64,13 @@ Free the memory allocated for each string in s Free the memory allocated for s
 7.	End
  
 Program:
+![image](https://github.com/user-attachments/assets/dbe12ff2-bfb1-4f3f-b419-dd13b8f50352)
 
-//type your code here
-
-
-
+![image](https://github.com/user-attachments/assets/d209ea91-b837-4639-aff6-c92b70fc7d50)
 
 Output:
 
-
-//paste your output here
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/5962f833-0404-42bc-b059-91bd6d22c26b)
 
 Result:
 Thus, the program is verified successfully
@@ -116,16 +89,12 @@ Algorithm:
 7.	End
  
 Program:
-
-//type your code here
-
-
+![image](https://github.com/user-attachments/assets/8d540936-5896-4544-9350-838ebabe8643)
 
 
 Output:
 
-
-//paste your output here
+![image](https://github.com/user-attachments/assets/c8be2224-fcfc-4324-93ff-8db4d6d01ac0)
 
 
 
@@ -155,29 +124,15 @@ o	Call the square() function and display the result.
 5.	End.
 
 Program:
-
-//type your code here
-
-
+![image](https://github.com/user-attachments/assets/2428e07e-8290-4ff7-a5aa-15ae4787d9a6)
 
 
 Output:
 
-
-//paste your output here
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/18ee1abe-b453-4602-8380-636cab9d75cb)
 
 Result:
 Thus, the program is verified successfully
-
-
-
-
-
 
 
 
