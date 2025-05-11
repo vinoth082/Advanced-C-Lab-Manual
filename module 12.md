@@ -15,11 +15,14 @@ Algorithm:
  
 Program:
 
-//type your code here
+![image](https://github.com/user-attachments/assets/ce95f81e-fefb-46de-8975-4c4f2d012311)
+
+
 
 Output:
 
-//paste your output here
+![image](https://github.com/user-attachments/assets/29268d15-7e8b-4329-99dd-e35df6bbcd2a)
+
 
 
 Result:
@@ -40,11 +43,14 @@ Algorithm:
  
 Program:
 
-//type your code here
+![image](https://github.com/user-attachments/assets/b5fa3b16-64de-4c90-8d2f-3fb5cfb60c7d)
+
 
 Output:
 
-//paste your output here
+
+![image](https://github.com/user-attachments/assets/fcf14cf1-41cf-4695-aedb-695e51b06633)
+
 
 
 
@@ -63,12 +69,13 @@ Algorithm:
 5.	End the display function.
  
 Program:
+![image](https://github.com/user-attachments/assets/8ea44563-dc63-4d0b-9cc1-f3a10339ef84)
 
-//type your code here
 
 Output:
 
-//paste your output here
+![image](https://github.com/user-attachments/assets/91e29071-4321-4a15-a00a-a93d09eb0e96)
+
 
 Result:
 Thus, the program to display queue elements using linked list is verified successfully.
@@ -90,11 +97,14 @@ Algorithm:
  
 Program:
 
-//type your code here
+![image](https://github.com/user-attachments/assets/1e775f60-babe-4083-9430-7369bec1fd8f)
+
 
 Output:
 
-//paste your output here
+
+![image](https://github.com/user-attachments/assets/d812d89e-a0cb-4d64-9336-803e7792f657)
+
 
 Result:
 Thus, the program to insert elements in queue using linked list is verified successfully.
@@ -117,14 +127,18 @@ o	If the queue is not empty, return the data stored in the front node of the lin
 
 Program:
 
-//type your code here
+![image](https://github.com/user-attachments/assets/27945938-9b83-4859-8f58-6ba3bca81e80)
+
 
 Output:
 
-//paste your output here
+![image](https://github.com/user-attachments/assets/a662d152-4358-4b8f-9f2f-7673a4ab0dc4)
 
 
 
+Result:
+
+Thus, the program to retrieve the "peek" (the front element) of a queue implemented using a linked list is verified successfully.
 Result:
 
 Thus, the program to retrieve the "peek" (the front element) of a queue implemented using a linked list is verified successfully.
