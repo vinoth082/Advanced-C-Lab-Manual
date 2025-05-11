@@ -10,11 +10,16 @@ Algorithm:
  
 Program:
 
-//type your code here
+![image](https://github.com/user-attachments/assets/7683fcf1-69e2-44d8-8eb5-f154ee2f6b25)
+
+
 
 Output:
 
-//paste your output here
+
+
+![image](https://github.com/user-attachments/assets/a58d2cc8-eaf0-4ab7-b719-6eeaf4b0f2c7)
+
 
 
 
@@ -33,14 +38,16 @@ Algorithm:
 4.	Call the insert function and perform other linked list operations as needed.
  
 Program:
+![image](https://github.com/user-attachments/assets/28991423-5e23-42db-9285-944d4469000a)
 
-//type your code here
 
 Output:
 
-//paste your output here
+
+ ![image](https://github.com/user-attachments/assets/0680c3a8-5e37-4472-b1c2-bdc3e74a498c)
 
  
+
 Result:
 Thus, the program to insert a node in a linked list is verified successfully.
 
@@ -57,12 +64,14 @@ Algorithm:
 4.	Move to the next node by updating the temp pointer to point to the next node (temp = temp->next).
  
 Program:
+![image](https://github.com/user-attachments/assets/96a959ce-1c4b-4084-b0b5-7068a3e6915e)
 
-//type your code here
 
 Output:
 
-//paste your output here
+
+![image](https://github.com/user-attachments/assets/262ab7d8-f072-4700-97a7-9329cd8948c8)
+
 
 
 Result:
@@ -83,11 +92,14 @@ Algorithm:
  
 Program:
 
-//type your code here
+![image](https://github.com/user-attachments/assets/765d171d-577c-4be5-8504-ed2e869fa29b)
+
 
 Output:
 
-//paste your output here
+
+![image](https://github.com/user-attachments/assets/8a694a00-0c9b-4d2c-a811-51ac695194d4)
+
 
 
 Result:
@@ -125,12 +137,15 @@ o	If the element is not found in any node, print a message indicating the elemen
 
 Program:
 
-//type your code here
+
+![image](https://github.com/user-attachments/assets/04e22d3a-271b-4aaf-a39f-f3c084810d58)
+
 
 Output:
 
-//paste your output here
 
+
+![image](https://github.com/user-attachments/assets/e3bcb893-f277-40e1-bb7b-81a9b7bd9ac6)
 
 
 
