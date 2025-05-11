@@ -12,10 +12,15 @@ Algorithm:
 5.	Call the max_of_four function with the input integers and store the result in the greater variable
  
 Program:
-//type your code here
+
+![image](https://github.com/user-attachments/assets/f3504461-2e5f-458e-ae78-ea5b1cc3d918)
+
 
 Output:
-//paste your output here
+
+![image](https://github.com/user-attachments/assets/c7e54cc2-bbf6-4122-85ca-428abbd0ac80)
+
+
 
 Result:
 Thus, the program  that create a function to find the greatest number is verified successfully.
@@ -36,10 +41,14 @@ Algorithm:
 7.	Call the calculate_the_max function with input values.
  
 Program:
-//type your code here
+
+![image](https://github.com/user-attachments/assets/d7cb6403-8335-4b8e-b2d6-985c15c93b92)
+
 
 Output:
-//paste your output here
+
+![image](https://github.com/user-attachments/assets/8d41a15d-d75d-4677-8b54-a6b3ae530609)
+
 
 Result:
 Thus, the program to print the maximum values for the AND, OR and XOR comparisons
@@ -59,10 +68,18 @@ Algorithm:
 5.	Use a for loop to iterate over the queries.
  
 Program:
-//type your code here
+
+![image](https://github.com/user-attachments/assets/f7c7612a-4c98-4ee5-b4a8-90fe16d9bccd)
+
+![image](https://github.com/user-attachments/assets/4ca35c3e-ffb6-4d45-9b8c-b2098893f2e5)
+
+
 
 Output:
-//paste your output here
+
+
+![image](https://github.com/user-attachments/assets/18b84724-36e5-4c47-a8e8-8623dbf8da0a)
+
 
 
 Result:
@@ -86,12 +103,14 @@ Algorithm:
 
 
 Program:
-//type your code here
+
+![image](https://github.com/user-attachments/assets/61979ff2-8106-4114-ae2d-7030f1fabb1c)
+
 
 Output:
-//paste your output here
 
- 
+![image](https://github.com/user-attachments/assets/87ded36e-f7da-415b-a8d6-c6d59db3fe09)
+
 
 
 Result:
@@ -120,10 +139,15 @@ o	If a character is not a space, it may belong to a word. If it's the first non-
 
 
 Program:
-//type your code here
+
+![image](https://github.com/user-attachments/assets/623cc544-1f1e-426d-96a4-0de6cb10522c)
+
 
 Output:
-//paste your output here
+
+
+![image](https://github.com/user-attachments/assets/3f5a3e1b-333d-4fd0-94c6-8307ed2ee344)
+
 
 
 
